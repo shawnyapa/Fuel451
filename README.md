@@ -21,6 +21,11 @@ An repo that describes the Fuel451 commerical product. Application allows users 
  - AFNetworking
  - AWS SDK (S3 Uploads)
  - AVFoundation
+ - CoreData
+ - SDWebImage
+ - CoreLocation
+ - Flurry
+ - Custom Views
 
 ## Build & Test
  - Source code is not available as this is a commercial product
