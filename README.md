@@ -2,9 +2,10 @@
 
 An repo that describes the Fuel451 commerical product. Application allows users to create video projects with content by shooting or importing video/images. Additionally users can manipulate video to cut and stitch together video clips and photos as well as add text overlays, voiceovers, and music. Users can then render the final video and save or post to social networks. <br>
 <b>Note: </b>This repo ONLY contains a ReadMe description. The original codebase is in a Private Repo belonging to Fuel451.
+<b>I was a member of a 2 person team for this project.
 
 ## Screen Recording
-
+<table><tr><td width="50%"><img src="http://i.imgur.com/KvgpLuA.gif" title="source: imgur.com" /></td><td width="50%"><img src="http://i.imgur.com/OQH6TTY.gif" title="source: imgur.com" /></td></tr></table>
 ## User Stories
  - Users can authenticate with backend API
  - Users can shoot video and photos
