@@ -5,7 +5,7 @@ An repo that describes the Fuel451 commerical product. Application allows users 
 <b>I was a member of a 2 person team for this project.
 
 ## Screen Recording
-<table><tr><td width="50%"><img src="http://i.imgur.com/KvgpLuA.gif" title="source: imgur.com" /></td><td width="50%"><img src="http://i.imgur.com/OQH6TTY.gif" title="source: imgur.com" /></td></tr></table>
+<table><tr><td width="50%"><img src="http://i.imgur.com/KvgpLuA.gif" title="source: imgur.com" /></td><td width="50%"><iframe class="imgur-embed" width="100%" height="1136" frameborder="0" src="http://i.imgur.com/OQH6TTY.gifv#embed"></iframe></td></tr></table>
 ## User Stories
  - Users can authenticate with backend API
  - Users can shoot video and photos
